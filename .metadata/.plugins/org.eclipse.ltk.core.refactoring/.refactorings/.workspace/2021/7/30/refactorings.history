@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;secao13_composicao&apos; to &apos;secao13_composicao_e_enum&apos;&#x0D;&#x0A;- Original element: &apos;secao13_composicao&apos;&#x0D;&#x0A;- Renamed element: &apos;secao13_composicao&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;secao13_composicao&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=secao13_composicao" name="secao13_composicao_e_enum" references="true" stamp="1627052012652" version="1.0"/>
-</session>
